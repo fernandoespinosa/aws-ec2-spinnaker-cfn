@@ -1,0 +1,7 @@
+{
+  "name": "aws-spinnaker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Fernando Espinosa <fernandoespinosa@fernandoespinosa.org>",
+  "license": "MIT"
+}
